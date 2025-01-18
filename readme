@@ -1,0 +1,15 @@
+/* Classes
+   Employee: Base class with name and userId as members.
+   HR_Employee: Inherits from Employee and includes methods
+   for viewing, and searching employees.
+   Manager: Inhereits from Employee and provides a method to
+   view the employee's own information.
+   General Employee: Inherits from Employee and provides a method
+   to view the employee's own information. */
+
+/* Functions
+   login(): Handles user authentication and creates the 
+   appropriate Employee object based on credentials.
+   hrMenu(): Desplays the HR menu and handles user input for 
+   HR-specific operations.
+   managerMenu(): Displays the Management menu and handles user input. */
